@@ -1,7 +1,8 @@
-# To jest nagłówek w Markdownie
+= Tytuł dokumentu
+Autor
+:doctype: article
 
-Możesz pisać tekst w Markdownie...
+== Sekcja
 
-<iframe src="https://www.example.com" width="600" height="400"></iframe>
-
-...i wstawiać elementy HTML!
+Oto obrazek wstawiony za pomocą HTML:
+<img src="https://www.example.com/image.jpg" width="400" height="300">
